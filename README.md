@@ -1,8 +1,10 @@
-# Group TEAM_NUMBER
+# Group 16
 Group Name: TEAM_NAME
 
 [MVP Link](http://cs196.cs.illinois.edu)
 
-Team Members: STUDENTS_NETIDS
+Team Members: jingnan9	kyuwonl2	yujuny2	seungyi3
 
-Project Manager: PM_NETID
+Project Manager: drshika2
+
+Project Description:
