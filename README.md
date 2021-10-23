@@ -2,7 +2,9 @@
 Group Name: Team Spider
 
 [MVP Link](https://docs.google.com/document/d/1Pp66mlivtYYcQ11E7hSmeL3Ff_71C9ShpKb6UikNmck/edit?usp=sharing)
+
 [Design Draft](https://docs.google.com/document/d/1EiIjy2oHlAcOfpPzIoeBj3PxCl_3Bsm7p1H52Zob_Ew/edit#)
+
 Team Members: jingnan9	kyuwonl2	yujuny2	seungyi3 minkyu3 dahyunl2
 
 Project Manager: drshika2
