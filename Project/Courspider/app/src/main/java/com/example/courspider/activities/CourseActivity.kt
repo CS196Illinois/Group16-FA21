@@ -1,9 +1,9 @@
-package com.example.courspidermvp.activities
+package com.example.courspider.activities
 
 import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.courspidermvp.R
+import com.example.courspider.R
 
 class CourseActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
