@@ -1,4 +1,4 @@
-package com.example.courspidermvp.activities
+package com.example.courspider.activities
 
 import android.app.Activity
 import android.content.Intent
@@ -11,12 +11,12 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.courspidermvp.R
-import com.example.courspidermvp.firebase.Response
-import com.example.courspidermvp.adapters.CourseBoardAdapter
-import com.example.courspidermvp.firebase.CourseViewModel
-import com.example.courspidermvp.firebase.FirebaseCallback
-import com.example.courspidermvp.models.Course
+import com.example.courspider.R
+import com.example.courspider.firebase.Response
+import com.example.courspider.adapters.CourseBoardAdapter
+import com.example.courspider.firebase.CourseViewModel
+import com.example.courspider.firebase.FirebaseCallback
+import com.example.courspider.models.Course
 import com.google.firebase.database.FirebaseDatabase
 
 class DashboardActivity : AppCompatActivity() {
