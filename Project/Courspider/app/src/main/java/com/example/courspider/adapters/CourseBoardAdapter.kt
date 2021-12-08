@@ -1,4 +1,4 @@
-package com.example.courspidermvp.adapters
+package com.example.courspider.adapters
 
 import android.content.Context
 import android.content.Intent
@@ -8,9 +8,9 @@ import android.view.ViewGroup
 import android.widget.Button
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.courspidermvp.R
-import com.example.courspidermvp.activities.CourseActivity
-import com.example.courspidermvp.models.Course
+import com.example.courspider.R
+import com.example.courspider.activities.CourseActivity
+import com.example.courspider.models.Course
 import kotlin.math.min
 import kotlin.math.roundToInt
 
