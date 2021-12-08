@@ -1,11 +1,11 @@
-package com.example.courspidermvp.activities
+package com.example.courspider.activities
 
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
-import com.example.courspidermvp.R
+import com.example.courspider.R
 import com.google.android.material.textfield.TextInputLayout
 
 class AddCourseActivity : AppCompatActivity() {
