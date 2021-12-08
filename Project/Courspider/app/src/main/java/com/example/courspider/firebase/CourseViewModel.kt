@@ -1,4 +1,4 @@
-package com.example.courspidermvp.firebase
+package com.example.courspider.firebase
 
 import androidx.lifecycle.ViewModel
 
