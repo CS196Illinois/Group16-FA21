@@ -1,4 +1,4 @@
-package com.example.courspidermvp.firebase
+package com.example.courspider.firebase
 
 interface FirebaseCallback {
     fun onResponse(response: Response)
