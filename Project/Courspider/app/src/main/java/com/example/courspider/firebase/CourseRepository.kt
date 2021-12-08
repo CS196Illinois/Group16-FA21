@@ -1,6 +1,6 @@
-package com.example.courspidermvp.firebase
+package com.example.courspider.firebase
 
-import com.example.courspidermvp.models.Course
+import com.example.courspider.models.Course
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 
