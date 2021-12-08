@@ -1,4 +1,4 @@
-package com.example.courspidermvp.models
+package com.example.courspider.models
 
 class Course(
     val name: String?,
